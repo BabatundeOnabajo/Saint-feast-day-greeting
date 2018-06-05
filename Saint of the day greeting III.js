@@ -686,5 +686,5 @@ if(thisMonth == 11){
 		alert(greeting + decemberFeastDay[20])
 	}
 }
-//to the glory of God, forever and ever +. 
+
 </script>
